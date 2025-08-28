@@ -17,12 +17,12 @@ Setiap soal ditempatkan pada folder terpisah:
 | Soal                                                    | Deskripsi Singkat                                                                                | Status |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------ |
 | **Ngalegaan Kakawasan, Tamamo Silang – Sunda Priangan** | HTTP Web Server pakai Assembly (x86/ARM).                                                        | ❌     |
-| **Doki-Doki-Dokyumento**                                | Analisis & rewrite dokumen spesifikasi (IF2211 Strategi Algoritma).                              | ❌     |
+| **Doki-Doki-Dokyumento**                                | Analisis & rewrite dokumen spesifikasi (IF2211 Strategi Algoritma).                              | ✅     |
 | **Sybau Labubu Tracer**                                 | Cisco Packet Tracer topologi 4 negara, OSPF, BGP, DHCP, VLAN, ACL, DNS, IPv6, dll.               | ✅     |
 | **\$BTC**                                               | Bitcoin Network sederhana dengan transaksi, mining, PoW, sinkronisasi antar node.                | ✅     |
 | **4 Bit Fisherman**                                     | Simulasi komputer 4-bit dengan operasi dasar, bonus Minecraft/Terraria/7-seg display.            | ✅     |
 | **It’s Called ‘Legacy Code’ for a Reason**              | Perbaikan COBOL + Dockerfile, + bonus konversi Rupiah, Kubernetes, auto-interest, reverse proxy. | ✅     |
-| **TTKI – Tulis Tulis Karya Imajinasi**                  | Cerita pendek (lore Sister).                                                                     | ❌     |
+| **TTKI – Tulis Tulis Karya Imajinasi**                  | Cerita pendek (lore Sister).                                                                     | ✅     |
 
 ---
 
