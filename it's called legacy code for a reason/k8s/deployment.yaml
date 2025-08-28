@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cobol-app-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cobol-app
+  template:
+    metadata:
+      labels:
+        app: cobol-app
+    spec:
+      containers:
+        - name: cobol-app
+          image: lynaten/cobol-app:latest
+          ports:
+            - containerPort: 8000
+          args: []

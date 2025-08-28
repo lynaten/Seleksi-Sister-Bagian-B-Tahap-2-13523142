@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cobol-app-interest
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cobol-app-interest
+  template:
+    metadata:
+      labels:
+        app: cobol-app-interest
+    spec:
+      containers:
+        - name: cobol-app-interest
+          image: lynaten/cobol-app:latest
+          args: ["./main", "--apply-interest"]
